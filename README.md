@@ -81,5 +81,3 @@ To link two records in different tables just set the ID of the target row by the
 {"messages":[{"code":"201","message":"Field cannot be modified"}],"response":{}}
 ```
 
-## Credits
-Cognito Login: https://github.com/aws-samples/aws-cognito-java-desktop-app  
